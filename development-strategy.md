@@ -90,10 +90,10 @@ what did you change in the HTML and why?
 * Copy the images folder, stage it and commit
 * Push the branch to GitHub and create the same branch online   
 `git push origin images`   
-* Write the step in the Development strategy using Github and save it (stage it and commit)
+* Write the step in the Development strategy using Github and save it (stage it and commit: 'write step 1 in development strategy')
 ### Branches
 
 1. This user story was developed on a brach called `images`
-2. It was merged to `master` when the feature was finished (#Write step 1 in development strategy)
+2. It was merged to `master` when the feature was finished
 
 ...
