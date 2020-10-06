@@ -2,7 +2,7 @@
 
 > `app-theme`
 
-Following the tutorial provided we have to rebuild a website containing 4 pages, each on a branch. For every branch we need to create a pull request to the master and merge it later with the master. The foundation and preliminary preparation of this exercise consists of writing and developing a clean development strategy and creating a wireframe. This time we will use the [FlexBox CSS Layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) to build a a responsive HTML template.
+Following the tutorial provided we have to rebuild a website containing 4 pages, each on a branch. For every branch we need to create a pull request to the master and merge it later with the master. The foundation and preliminary preparation of this exercise consists of writing and developing a clean development strategy and creating a wireframe. This time we will use the [FlexBox CSS Layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) to build a a responsive HTML template. To help us we will use a CSS frmework called [Flexboxgrid](http://flexboxgrid.com/) built using Flexbox. Flexboxgrid adopts a system similar to the grid system used in Bootstrap.
 
 
 [GO TO THE README](README.md)
@@ -13,7 +13,7 @@ This is a starter project for a beginner, it covers the CSS Flexbox Layout. We l
 
 - why would they want to use it?  
 
-CSS Flexbox is a new way to create layouts using HTML and CSS efficiently, better than using float properties.
+CSS Flexbox is a new way to create layouts using HTML and CSS efficiently, better than using float properties. [Six reasons to start using Flexbox](https://bitsofco.de/6-reasons-to-start-using-flexbox/)
 
 ## Wireframe
 
@@ -33,7 +33,7 @@ CSS Flexbox is a new way to create layouts using HTML and CSS efficiently, bette
 1. Write initial, basic development strategy
 1. Turn on GitHub Pages (https://bermarte.github.io/acme-web-design/)
 1. Clone this repo locally
-1. Edit your development strategy 
-1. add, commit, push on GitHub server your development strategy
- 
+1. Edit your development strategy locally
+1. Add, commit, push on GitHub server your development strategy
+1. Download the code to copy the images and the CSS framework
 ...
