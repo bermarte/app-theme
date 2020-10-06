@@ -94,7 +94,8 @@ what did you change in the HTML and why?
 * Push the branch to GitHub and create the same branch online   
 `git push origin images`   
 * Write the step in the Development strategy using Github and save it (stage it and commit: 'write step 1 in development strategy')
-* Pull request, merge images branch in the master branch   
+* Pull request, merge images branch in the master branch
+* checkout master and pull locally   
 
 ### Branches
 
@@ -110,4 +111,6 @@ what did you change in the HTML and why?
 * Copy the flexbox css file inside the css folder, stage the changes and commit
 * Push the branch to GitHub and create the same branch online   
 `git push origin css`
+* Pull request, merge css branch in the master branch (in GitHub)
+* checkout master and pull locally
 ...
