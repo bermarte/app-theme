@@ -1,53 +1,37 @@
 # Development Strategy
 
-> `name-of-project`
+> `app-theme`
 
 write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+
+...
+
+[GO TO THE README](README.md)
+
+- who would want to use it?  
+
+...
+- why would they want to use it?  
+
+...
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe IMG](notyet)   
+![wireframe PDF](notyetpdf)
 
-## 0. Set-Up
-
-__A User can see my initial repository and live demo__
-
-### Repo
-
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
-
-## 1. __
-
-__full user story description__
+## 0 Set-Up:
+* Read the text of the assignment
+* follow the tutorial step by step
 
 ### Repo
 
-what branch(es) did you work on?
-
-### HTML
-
-what did you change in the HTML and why?
-
-### CSS
-
-what did you change in the CSS and why?
-
-## 2. ...
-
+1. On Github Generate Repo from Template
+1. Write initial, basic README
+1. Write initial, basic development strategy
+1. Turn on GitHub Pages (https://bermarte.github.io/acme-web-design/)
+1. Clone this repo locally
+ 
 ...
-
-...
-
-## Finishing Touches
-
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
