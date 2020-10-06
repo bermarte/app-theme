@@ -88,6 +88,8 @@ what did you change in the HTML and why?
 
 * Create locally the branch images   
 `git branch images`
+* switch to the branch
+`git checkout images`
 * Copy the images folder, stage it and commit
 * Push the branch to GitHub and create the same branch online   
 `git push origin images`   
@@ -97,7 +99,15 @@ what did you change in the HTML and why?
 ### Branches
 
 1. This user story was developed on a brach called `images`
-2. It was merged to `master` when the feature was finished
+2. It was merged into `master` when the feature was finished
 
-
+## 2. User Story: COPY THE FLEXBOXGRID CSS
+* Write this step in the devlopment strategy (then stage, commit and push)
+* From master, crete locally the branch css
+`git branch css`
+* Switch to the css branch
+`git checkout css`
+* Copy the flexbox css file inside the css folder, stage the changes and commit
+* Push the branch to GitHub and create the same branch online   
+`git push origin css`
 ...
