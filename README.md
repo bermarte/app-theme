@@ -1,4 +1,4 @@
-# app-them
+# app-theme
 HYF incremental development week #2
 # Incremental development week 2
 
