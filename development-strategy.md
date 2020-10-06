@@ -91,6 +91,8 @@ what did you change in the HTML and why?
 * Push the branch to GitHub and create the same branch online   
 `git push origin images`   
 * Write the step in the Development strategy using Github and save it (stage it and commit: 'write step 1 in development strategy')
+* Pull request, merge images branch in the master branch   
+
 ### Branches
 
 1. This user story was developed on a brach called `images`
