@@ -114,7 +114,19 @@ what did you change in the HTML and why?
 * Pull request, merge css branch in the master branch (in GitHub)
 * checkout master and pull locally   
 
-## 2. User Story: CREATE INDEX
+## 2. User Story: CREATE INDEX HTML   
+
+Creating the basic layout for the index file
+
 * create a custom style.css inside the css folder
 * Add, Commit, Push
+
+### Branches
+
+1. This user story was developed on a brach called `index`
+2. It was merged into `master` when the feature was finished  
+
+### HTML
+...
+### CSS
 ...
