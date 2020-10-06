@@ -112,5 +112,9 @@ what did you change in the HTML and why?
 * Push the branch to GitHub and create the same branch online   
 `git push origin css`
 * Pull request, merge css branch in the master branch (in GitHub)
-* checkout master and pull locally
+* checkout master and pull locally   
+
+## 2. User Story: CREATE INDEX
+* create a custom style.css inside the css folder
+* Add, Commit, Push
 ...
