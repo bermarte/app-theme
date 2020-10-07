@@ -57,7 +57,7 @@ CSS Flexbox is a new way to create layouts using HTML and CSS efficiently, bette
  `git push --set-upstream origin branch_name`
 10. Compare, create a pull request on GitHub, write a message, merge and confirm
 11. Repeat 8. to 10. for every branch
-12. On GitHub, continue writing the Development strategy (this file) 
+12. On GitHub, after every merge, continue writing the Development strategy (this file) 
 13. Using githubpages, validate and debug the html files, the CSS and the rest using the template of HYF
 14. Pull master to local
 15. Fix the errors found at 13. on your local computer
@@ -116,9 +116,9 @@ what did you change in the HTML and why?
 
 ## 2. User Story: CREATE INDEX HTML   
 
-Creating the basic layout for the index file
+Creating the basic layout for the index file, you are in the master branch
 
-* create a custom style.css inside the css folder
+* Create a custom style.css inside the css folder
 * Add, Commit, Push
 
 ### Branches
@@ -127,6 +127,18 @@ Creating the basic layout for the index file
 2. It was merged into `master` when the feature was finished  
 
 ### HTML
-...
+
+* Basic HTML structure
+* Header and nav
+* Showcase section
+* Feature section
+* Info section
+* Company section
+* Footer
+
 ### CSS
-...
+
+* Create style.css in the css folder
+* Style the div container and the image element
+* Copy font-awesome.css in the same directory
+* Copy the font directory provided in the tutorial
