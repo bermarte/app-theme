@@ -1,0 +1,7 @@
+.container{
+    margin: auto;
+}
+/* the images are contained in their containers*/
+img{
+    width: 100%;
+}
