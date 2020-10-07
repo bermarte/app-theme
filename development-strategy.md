@@ -55,7 +55,7 @@ CSS Flexbox is a new way to create layouts using HTML and CSS efficiently, bette
  `git checkout branch_name`
 9. Push it to this repository creating the branch on the server     
  `git push --set-upstream origin branch_name`
-10. Compare, create a pull request on GitHub, write a message, merge and confirm
+10. Compare, create a pull request on GitHub, write a message, merge and confirm. Then on your local repo, checkout master and pull
 11. Repeat 8. to 10. for every branch
 12. On GitHub, after every merge, continue writing the Development strategy (this file) 
 13. Using githubpages, validate and debug the html files, the CSS and the rest using the template of HYF
