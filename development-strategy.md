@@ -84,6 +84,7 @@ what did you change in the HTML and why?
 * ...   
 
 ---
+
 ## 1. User Story: COPY THE IMAGES 
 
 * Create locally the branch images   
@@ -114,7 +115,9 @@ what did you change in the HTML and why?
 * Pull request, merge css branch in the master branch (in GitHub)
 * checkout master and pull locally   
 
-## 2. User Story: CREATE INDEX HTML   
+---
+
+## 3. User Story: CREATE INDEX HTML   
 
 Creating the basic layout for the index file, you are in the master branch
 
@@ -142,3 +145,26 @@ Creating the basic layout for the index file, you are in the master branch
 * Style the div container and the image element
 * Copy font-awesome.css in the same directory
 * Copy the font directory provided in the tutorial
+
+---
+
+## 4. User Story: CREATE ABOUT HTML   
+
+Creating about file in the branch about
+
+### Branches
+
+1. This user story was developed on a brach called `about`
+2. It was merged into `master` when the feature was finished  
+
+### HTML
+
+* Copy the content of index.html in about.html
+* Remove sections showcase, feature and info
+* Edit the file moving the current class and changing the title
+* Add the sub-header
+* Add section page
+
+### CSS
+
+nothing done
