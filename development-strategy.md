@@ -170,3 +170,25 @@ Creating about file in the branch about
 ### CSS
 
 nothing done
+
+---
+
+## 5. User Story: CREATE SERVICES HTML   
+
+Creating about file in the branch services
+
+### Branches
+
+1. This user story was developed on a brach called `services`
+2. It was merged into `master` when the feature was finished  
+
+### HTML
+
+* Copy the content of about.html in services.html
+* Remove text inside the page section
+* Adapt the content
+* Add 'We Offer'
+
+### CSS
+
+nothing done
