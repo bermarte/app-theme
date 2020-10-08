@@ -22,8 +22,8 @@ You will be assessed not only on your live demo, but also on the quality of your
 ## Issue Checklist  
 
 
-- [x] [repo](https://github.com/bermarte/app-them) (with a complete README)
-- [x] [live demo](https://bermarte.github.io/app-them) (turn on GitHub Pages)
-- [x] [development strategy](https://github.com/bermarte/app-them/blob/master/development-strategy.md)
-- [x] [one branch per step](https://github.com/bermarte/app-them/branches)
-- [x] [one closed PR per step](https://github.com/bermarte/app-them/pulls)
+- [x] [repo](https://github.com/bermarte/app-theme) (with a complete README)
+- [x] [live demo](https://bermarte.github.io/app-theme) (turn on GitHub Pages)
+- [x] [development strategy](https://github.com/bermarte/app-theme/blob/master/development-strategy.md)
+- [x] [one branch per step](https://github.com/bermarte/app-theme/branches)
+- [x] [one closed PR per step](https://github.com/bermarte/app-theme/pulls)
