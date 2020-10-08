@@ -22,6 +22,8 @@ CSS Flexbox is a new way to create layouts using HTML and CSS efficiently, bette
 ![wireframe IMG](notyet)   
 ![wireframe PDF](notyetpdf)
 
+---
+
 ## 0 Set-Up:
 * Read the text of the assignment
 * follow the tutorial step by step
