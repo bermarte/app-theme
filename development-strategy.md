@@ -218,7 +218,8 @@ Creating about file in the branch contact
 
 nothing done
 
---
+---
+
 ## 7. User Story: CSS STYLE 
 
 * Style all the pages  
