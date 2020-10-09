@@ -194,7 +194,6 @@ Creating about file in the branch services
 nothing done
 
 ---
----
 
 ## 6. User Story: CREATE CONTACT HTML   
 
@@ -218,3 +217,28 @@ Creating about file in the branch contact
 ### CSS
 
 nothing done
+
+---
+
+## 7. User Story: CSS STYLE 
+
+* Style all the pages  
+
+### Branches
+
+1. This user story was developed on a brach called `master`
+
+### HTML
+
+* Fix about.html
+* Fix contact.html
+* Fix services.html
+* Fix index.html
+
+### CSS
+
+Work on css/style.css
+
+* Complete the tutorial
+* Complete CSS, style and check everything
+* Add media queries
