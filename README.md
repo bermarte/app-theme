@@ -19,8 +19,8 @@ A good strategy to for completing this project is the __three-step__:
 3. study the tutorial a second time, following your strategy to build your repository one branch at a time
 
 You will be assessed not only on your live demo, but also on the quality of your code, your development strategy, the correctness of your branches, and the completeness of your repository. Your repository must contain:
-## Issue Checklist  
 
+## Issue Checklist  
 
 - [x] [repo](https://github.com/bermarte/app-theme) (with a complete README)
 - [x] [live demo](https://bermarte.github.io/app-theme) (turn on GitHub Pages)
