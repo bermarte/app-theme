@@ -19,7 +19,7 @@ CSS Flexbox is a new way to create layouts using HTML and CSS efficiently, bette
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe IMG](notyet)   
+![wireframe IMG](./images/wireframe.png)   
 ![wireframe PDF](notyetpdf)
 
 ---
