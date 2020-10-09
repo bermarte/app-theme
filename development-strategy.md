@@ -229,9 +229,14 @@ nothing done
 
 ### HTML
 
-* Fix minor issues
+* Fix about.html
+* Fix contact.html
+* Fix services.html
+* Fix index.html
 
 ### CSS
+
+Work on css/style.css
 
 * Complete the tutorial
 * Complete CSS, style and check everything
