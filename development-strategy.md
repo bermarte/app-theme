@@ -271,10 +271,11 @@ Work on css/style.css
 
 ### CSS
 
-* Add media query: add `white-space: nowrap;` when `min-width:800px` (800 or bigger in size)
-* Adding `line-height: 1em;` when `min-width:800px` (800 or bigger in size) to `#showcase h1`
-* Adding `max-width: 2000px` and `min width 280px` to the body: when scaled the body shouldn't stretch beyond a given value
-* when upscaled the body should be centered, setting `margin: auto` in the body
-* When scaled the background image used in `#info` should stretch, setting it to `background-size: cover`
+* Add media query: add `white-space: nowrap;` when `min-width:800px` (800px or larger)
+* Adding `line-height: 1em;` when `min-width:800px` (800px or larger) to `#showcase h1`
+* Adding `max-width: 2000px` and `min width 280px` to the body: when upscaled the body shouldn't stretch beyond a given value
+* Adding `min width 280px` to the body:on smaller devices the width of the body shouldn't be less than 280px
+* when upscaled the body should be centered, setting `margin:auto` in the body (instead of `margin:0`)
+* When upscaled the background image used in `#info` should stretch (100% of the width of the div):`background-size: cover`
 
 
