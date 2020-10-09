@@ -2,7 +2,7 @@
 
 > `app-theme`
 
-Following the tutorial provided we have to rebuild a website containing 4 pages, each on a branch. For every branch we need to create a pull request to the master and merge it later with the master. The foundation and preliminary preparation of this exercise consists of writing and developing a clean development strategy and creating a wireframe. This time we will use the [FlexBox CSS Layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) to build a a responsive HTML template. To help us we will use a CSS frmework called [Flexboxgrid](http://flexboxgrid.com/) built using Flexbox. Flexboxgrid adopts a system similar to the grid system used in Bootstrap.
+Following the tutorial provided we have to rebuild a website containing 4 pages, each on a branch. For every branch we need to create a pull request to the master and merge it later into the master. The foundation and preliminary preparation of this exercise consists of writing and developing a clean development strategy, creating a wireframe and using a project board. This time we will use the [FlexBox CSS Layout](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) to build a a responsive HTML template. To help us we will use a CSS framework called [Flexboxgrid](http://flexboxgrid.com/) built on top of Flexbox. Flexboxgrid adopts a system similar to the grid system used in Bootstrap.
 
 
 [GO TO THE README](README.md)
@@ -13,7 +13,8 @@ This is a starter project for a beginner, it covers the CSS Flexbox Layout. We l
 
 - why would they want to use it?  
 
-CSS Flexbox is a new way to create layouts using HTML and CSS efficiently, better than using float properties. [Six reasons to start using Flexbox](https://bitsofco.de/6-reasons-to-start-using-flexbox/)
+CSS Flexbox is a new way to create layouts using HTML and CSS efficiently, better than using float properties.    
+[Six reasons to start using Flexbox](https://bitsofco.de/6-reasons-to-start-using-flexbox/)
 
 ## Wireframe
 
@@ -79,11 +80,22 @@ what branch(es) did you work on?
 ### HTML
 
 what did you change in the HTML and why?
-* ...
+
+* Change the  showcase attributes to `col-xs-10 col-sm-12 col-md-10 col-lg-8 showcase-content`    
+It fits better togeher with the [changes made in the CSS](https://github.com/bermarte/app-theme/issues/15)
 
 ### CSS
-what did you change in the HTML and why?
-* ...   
+what did you change in the CSS and why?    
+
+On Firefox the showcase's text should expand on bigger screens, see this [issue](https://github.com/bermarte/app-theme/issues/15).
+On bigger screens, (80% to 30%)
+The body is not centered, when upscaled the layout is messy.
+
+* Add media query: add `white-space: nowrap;` when `min-width:800px` (800 or bigger in size)
+* Adding `line-height: 1em;` when `min-width:800px` (800 or bigger in size) to `#showcase h1`
+* Adding `max-width: 2000px` and `min width 280px` to the body: when scaled the body shouldn't stretch beyond a given value
+* when upscaled the body should be centered, setting `margin: auto` in the body
+* When scaled the background image used in `#info` should stretch, setting it to `background-size: cover`
 
 ---
 
@@ -230,10 +242,10 @@ nothing done
 
 ### HTML
 
-* Fix about.html
-* Fix contact.html
-* Fix services.html
-* Fix index.html
+* Work on about.html
+* Work on contact.html
+* Work on services.html
+* Work on index.html
 
 ### CSS
 
@@ -242,3 +254,28 @@ Work on css/style.css
 * Complete the tutorial
 * Complete CSS, style and check everything
 * Add media queries
+
+---
+
+## 8. User Story: PERSONALISATION AND BUGS
+
+* Add a personal touch and fix what you think they are [bugs](https://github.com/bermarte/app-theme/issues/15)
+* Add the wireframe to this file
+
+### Branches
+
+1. This user story was developed on a brach called `master`
+
+### HTML
+
+* Change the  showcase attributes to `col-xs-10 col-sm-12 col-md-10 col-lg-8 showcase-content`
+
+### CSS
+
+* Add media query: add `white-space: nowrap;` when `min-width:800px` (800 or bigger in size)
+* Adding `line-height: 1em;` when `min-width:800px` (800 or bigger in size) to `#showcase h1`
+* Adding `max-width: 2000px` and `min width 280px` to the body: when scaled the body shouldn't stretch beyond a given value
+* when upscaled the body should be centered, setting `margin: auto` in the body
+* When scaled the background image used in `#info` should stretch, setting it to `background-size: cover`
+
+
