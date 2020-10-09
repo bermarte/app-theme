@@ -87,9 +87,8 @@ It fits better togeher with the [changes made in the CSS](https://github.com/ber
 ### CSS
 what did you change in the CSS and why?    
 
-On Firefox the showcase's text should expand on bigger screens, see this [issue](https://github.com/bermarte/app-theme/issues/15).
-On bigger screens, (80% to 30%)
-The body is not centered, when upscaled the layout is messy.
+On Firefox the showcase's text occupies always 2 lines, see this [issue](https://github.com/bermarte/app-theme/issues/15).
+The body is not centered, on larger screens the layout becomes a bit messy
 
 * Add media query: add `white-space: nowrap;` when `min-width:800px` (800 or bigger in size)
 * Adding `line-height: 1em;` when `min-width:800px` (800 or bigger in size) to `#showcase h1`
