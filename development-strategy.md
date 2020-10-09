@@ -233,5 +233,6 @@ nothing done
 
 ### CSS
 
-* Complete CSS
+* Complete the tutorial
+* Complete CSS, style and check everything
 * Add media queries
