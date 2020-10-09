@@ -192,3 +192,29 @@ Creating about file in the branch services
 ### CSS
 
 nothing done
+
+---
+---
+
+## 6. User Story: CREATE CONTACT HTML   
+
+Creating about file in the branch contact
+
+### Branches
+
+1. This user story was developed on a brach called `contact`
+2. It was merged into `master` when the feature was finished  
+
+### HTML
+
+* Copy the content of service.html in contact.html
+* Edit contact.html, move the current class
+* Change the header of the subheader
+* Change the class of the section page to 'contact'
+* Keep the h2 and remove the ul
+* Change the text of the h2 to 'get in touch'
+* Add a paragraph and a contact form'
+
+### CSS
+
+nothing done
